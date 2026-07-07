@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Adrian 👋</h1>
 
 <p align="center">
-  Estudiante de Desarrollo de Software 💻 | Quito, Ecuador 🇪🇨
+  Estudiante de Desarrollo de Software 💻 |  🇪🇨
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
 
 ### 🎓 Sobre mí
 
-- 📚 Estudiante de la carrera de **Desarrollo de Software.**
 - 🌱 Actualmente cursando **Redes**, **Base de Datos I** y **Programación Orientada a Objetos (Java)**.
 - 🎮 Me gusta el gaming y creo contenido en mi canal de YouTube **Yursty_**.
 
